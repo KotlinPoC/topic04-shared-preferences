@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/topic04-shared-preferences.iml" filepath="$PROJECT_DIR$/.idea/topic04-shared-preferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/topic04-using-shared-preferences.iml" filepath="$PROJECT_DIR$/topic04-using-shared-preferences.iml" />
     </modules>
